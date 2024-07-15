@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -40,4 +42,12 @@
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
