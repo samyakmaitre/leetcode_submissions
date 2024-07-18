@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
