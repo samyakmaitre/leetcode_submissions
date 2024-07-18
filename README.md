@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -30,11 +32,13 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## String
 |  |
@@ -61,4 +65,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
