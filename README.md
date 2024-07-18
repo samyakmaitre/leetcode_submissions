@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -55,4 +56,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
