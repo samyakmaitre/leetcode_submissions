@@ -1,23 +1,15 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        int len = nums.length;
-
-        Set<Integer> set1 = new HashSet<>();
-        for(int x : nums){
-            set1.add(x);
+        int n = nums.length;
+        int freq[] = new int[n + 1] ;
+        List<Integer> ans = new ArrayList<>(); 
+        for(int i=0;i<n;i++){
+            freq[nums[i]]++;
         }
-        Set<Integer> set2 = new HashSet<>();
-        for( int x= 1; x<=len; x++){
-            set2.add(x);
+        for(int i=1;i<=n;i++){
+            if(freq[i] == 0)
+                ans.add(i);
         }
-
-        set2.removeAll(set1);
-
-        ArrayList<Integer> result = new ArrayList<>();
-        int i=0;
-        for(int x : set2){
-            result.add(x);
-        }
-        return result;
+        return ans;
     }
 }
