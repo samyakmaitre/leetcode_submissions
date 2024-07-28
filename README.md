@@ -14,6 +14,7 @@
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0697-degree-of-an-array) |
 | [0932-monotonic-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,12 +73,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
