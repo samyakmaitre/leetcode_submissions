@@ -31,11 +31,13 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## String
 |  |
@@ -97,4 +100,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
