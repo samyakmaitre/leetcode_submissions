@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Breadth-First Search
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
