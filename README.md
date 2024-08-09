@@ -124,4 +124,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
