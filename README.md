@@ -20,6 +20,7 @@
 | [0697-degree-of-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0697-degree-of-an-array) |
 | [0932-monotonic-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
 |  |
 | ------- |
