@@ -110,6 +110,7 @@
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0441-arranging-coins) |
+| [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
+| [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
 |  |
