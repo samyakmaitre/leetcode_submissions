@@ -71,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
+| [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Breadth-First Search
 |  |
@@ -132,6 +133,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
