@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0476-number-complement](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0476-number-complement) |
 ## Game Theory
 |  |
 | ------- |
