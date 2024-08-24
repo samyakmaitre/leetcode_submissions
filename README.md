@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
 | [0564-find-the-closest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0564-find-the-closest-palindrome) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0441-arranging-coins) |
 | [0564-find-the-closest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0564-find-the-closest-palindrome) |
@@ -147,6 +149,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0476-number-complement](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0476-number-complement) |
 ## Game Theory
@@ -156,5 +159,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
