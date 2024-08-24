@@ -1,38 +1,55 @@
 class Solution {
     public String nearestPalindromic(String n) {
-        int len = n.length();
-        long num = Long.parseLong(n);
+        long ip = Long.valueOf(n);
+        long small = smallest(String.valueOf(ip-1));
+        long large = larger(String.valueOf(ip+1));
+        if(large - ip < ip - small) return String.valueOf(large);
+        else return String.valueOf(small);
         
-        long[] candidates = new long[5];
-        
-        candidates[0] = getMirroredPalindrome(n);
-        
-        candidates[1] = (long)Math.pow(10, len - 1) - 1;
-        
-        candidates[2] = (long)Math.pow(10, len) + 1;
-        
-        long firstHalf = Long.parseLong(n.substring(0, (len + 1) / 2));
-        
-        candidates[3] = getMirroredPalindrome(String.valueOf(firstHalf - 1) + n.substring((len + 1) / 2));
-        candidates[4] = getMirroredPalindrome(String.valueOf(firstHalf + 1) + n.substring((len + 1) / 2));
-        
-        long closest = -1;
-        for (long candidate : candidates) {
-            if (candidate != num) {
-                if (closest == -1 || Math.abs(candidate - num) < Math.abs(closest - num) || 
-                    (Math.abs(candidate - num) == Math.abs(closest - num) && candidate < closest)) {
-                    closest = candidate;
-                }
-            }
-        }
-        
-        return String.valueOf(closest);
     }
-    
-    private long getMirroredPalindrome(String s) {
-        int len = s.length();
-        String left = s.substring(0, (len + 1) / 2);
-        String mirrored = new StringBuilder(left).reverse().substring(len % 2);
-        return Long.parseLong(left + mirrored);
+
+    private long larger(String n) {
+        char[] data = n.toCharArray();
+        int start = 0;
+        int end = data.length-1;
+        while(start < end) {
+            while(data[start] != data[end]) {
+                incrementNumber(data,end);
+            }
+            start++;
+            end--;
+        }
+        return Long.parseLong(String.valueOf(data));
+    }
+
+    private long smallest(String n) {
+        char[] data = n.toCharArray();
+        int start = 0;
+        int end = data.length-1;
+        while(start < end) {
+            while(data[start] != data[end]) {
+                decrementNumber(data, end);
+                if(data[0] == '0') return Long.parseLong(String.valueOf(data));
+            }
+            start++;
+            end--;
+        }
+        return Long.parseLong(String.valueOf(data));
+    }
+
+    private void decrementNumber(char[] data, int i) {
+        while(data[i] == '0') {
+            data[i] = '9';
+            i--;
+        }
+        data[i]--;
+    }
+
+    private void incrementNumber(char[] data, int i) {
+        while(data[i] == '9') {
+            data[i] = '0';
+            i--;
+        }
+        data[i]++;
     }
 }
