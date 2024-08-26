@@ -44,6 +44,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -51,6 +52,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -138,6 +140,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
