@@ -22,6 +22,7 @@
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
+| [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
+| [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Tree
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
+| [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,4 +185,8 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
