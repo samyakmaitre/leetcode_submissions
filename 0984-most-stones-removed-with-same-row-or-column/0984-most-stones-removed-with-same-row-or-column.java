@@ -9,7 +9,6 @@ class Solution {
         return stones.length - uf.getCount();
     }
 }
-
 class UnionFind {
     private Map<Integer, Integer> parent;
     private int count; 
