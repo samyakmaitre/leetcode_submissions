@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
@@ -147,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
