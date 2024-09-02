@@ -22,6 +22,7 @@
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -72,6 +73,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0441-arranging-coins) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
 |  |
