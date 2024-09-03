@@ -93,6 +93,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
 |  |
