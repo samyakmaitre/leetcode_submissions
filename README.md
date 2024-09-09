@@ -28,6 +28,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Tree
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Graph
 |  |
 | ------- |
@@ -228,5 +231,6 @@
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
