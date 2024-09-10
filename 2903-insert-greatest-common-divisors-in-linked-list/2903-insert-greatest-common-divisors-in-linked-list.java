@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    // Using the Euclidean algorithm for GCD calculation
     static int GCD(int a, int b) {
         if (b == 0) {
             return a;
