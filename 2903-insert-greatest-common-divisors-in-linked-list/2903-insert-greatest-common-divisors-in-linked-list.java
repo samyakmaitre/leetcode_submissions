@@ -9,23 +9,18 @@
  * }
  */
 class Solution {
-    static int GCD(int a, int b)
-    {
-        int i;
-        if (a < b)
-            i = a;
-        else
-            i = b;
-        for (i = i; i > 1; i--) {
-            if (a % i == 0 && b % i == 0)
-                return i;
+    static int GCD(int a, int b) {
+        if (b == 0) {
+            return a;
         }
-        return 1;
+        return GCD(b, a % b);
     }
+
     public ListNode insertGreatestCommonDivisors(ListNode head) {
-        if(head.next == null){
-            return head;
+        if (head == null || head.next == null) {
+            return head; // Edge case: return head if the list is too short
         }
+
         ListNode firstHead = head;
 
         while (head != null && head.next != null) {
