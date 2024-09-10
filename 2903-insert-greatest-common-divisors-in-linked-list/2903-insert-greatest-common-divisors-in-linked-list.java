@@ -27,15 +27,17 @@ class Solution {
             return head;
         }
         ListNode firstHead = head;
-        while(head != null && head.next != null){
+
+        while (head != null && head.next != null) {
             int x = head.val;
-            int y= head.next.val;
-            int gcd = GCD(x,y);
+            int y = head.next.val;
+            int gcd = GCD(x, y);
+
             ListNode newNode = new ListNode(gcd);
             newNode.next = head.next;
             head.next = newNode;
 
-            head = head.next.next;
+            head = head.next.next; // Move ahead two nodes
         }
         return firstHead;
     }
