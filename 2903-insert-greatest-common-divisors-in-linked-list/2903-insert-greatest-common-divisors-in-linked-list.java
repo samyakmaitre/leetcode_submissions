@@ -9,11 +9,18 @@
  * }
  */
 class Solution {
-    static int GCD(int a, int b) {
-        if (b == 0) {
-            return a;
+    static int GCD(int a, int b)
+    {
+        int i;
+        if (a < b)
+            i = a;
+        else
+            i = b;
+        for (i = i; i > 1; i--) {
+            if (a % i == 0 && b % i == 0)
+                return i;
         }
-        return GCD(b, a % b);
+        return 1;
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         if(head.next == null){
