@@ -15,25 +15,35 @@ class Solution {
         }
         return GCD(b, a % b);
     }
-
     public ListNode insertGreatestCommonDivisors(ListNode head) {
-        if (head == null || head.next == null) {
-            return head; // Edge case: return head if the list is too short
+        if(head.next == null){
+            return head;
         }
-
         ListNode firstHead = head;
-
-        while (head != null && head.next != null) {
+        while(head != null && head.next != null){
             int x = head.val;
-            int y = head.next.val;
-            int gcd = GCD(x, y);
-
+            int y= head.next.val;
+            int gcd = GCD(x,y);
             ListNode newNode = new ListNode(gcd);
             newNode.next = head.next;
             head.next = newNode;
 
-            head = head.next.next; // Move ahead two nodes
+            head = head.next.next;
         }
         return firstHead;
+
+
+        // while () {
+        //     int x = head.val;
+        //     int y = head.next.val;
+        //     int gcd = GCD(x, y);
+
+        //     ListNode newNode = new ListNode(gcd);
+        //     newNode.next = head.next;
+        //     head.next = newNode;
+
+        //     head = head.next.next; // Move ahead two nodes
+        // }
+        // return firstHead;
     }
 }
