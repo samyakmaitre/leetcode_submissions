@@ -38,19 +38,5 @@ class Solution {
             head = head.next.next;
         }
         return firstHead;
-
-
-        // while () {
-        //     int x = head.val;
-        //     int y = head.next.val;
-        //     int gcd = GCD(x, y);
-
-        //     ListNode newNode = new ListNode(gcd);
-        //     newNode.next = head.next;
-        //     head.next = newNode;
-
-        //     head = head.next.next; // Move ahead two nodes
-        // }
-        // return firstHead;
     }
 }
