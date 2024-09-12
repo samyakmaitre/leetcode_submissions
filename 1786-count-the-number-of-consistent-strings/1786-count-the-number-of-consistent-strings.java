@@ -17,6 +17,7 @@ class Solution {
                 if (!allowedSet.contains(word.charAt(n)))
                 {
                     match = false;
+                    break;
                 }
                 n -= 1;
             }
