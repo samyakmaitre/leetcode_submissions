@@ -1,7 +1,7 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
         
-        Set<Character> allowedSet = new HashSet<>();
+        HashSet<Character> allowedSet = new HashSet<>();
         
         for(char ch : allowed.toCharArray()){
             allowedSet.add(ch);
