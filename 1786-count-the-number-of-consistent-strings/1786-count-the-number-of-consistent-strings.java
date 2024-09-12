@@ -14,7 +14,8 @@ class Solution {
             int n = (word.length())-1;
             boolean match = true;
             while(n>=0){
-                if (!allowedSet.contains(word.charAt(n))) {
+                if (!allowedSet.contains(word.charAt(n)))
+                {
                     match = false;
                 }
                 n -= 1;
