@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0697-degree-of-an-array) |
 | [0906-walking-robot-simulation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0906-walking-robot-simulation) |
@@ -103,6 +104,7 @@
 | [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
+| [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
@@ -140,6 +142,7 @@
 | [0088-merge-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 ## Divide and Conquer
@@ -155,6 +158,7 @@
 | [0189-rotate-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
