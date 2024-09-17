@@ -28,7 +28,6 @@ class Solution {
                 bitmaskToIndex.put(bitmask, i);
             }
         }
-        
         return maxLength;
     }
 }
