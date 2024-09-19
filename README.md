@@ -106,6 +106,7 @@
 | [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -161,6 +162,7 @@
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
@@ -265,4 +268,12 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
