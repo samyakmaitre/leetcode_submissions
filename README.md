@@ -110,6 +110,7 @@
 | [0214-shortest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0459-repeated-substring-pattern) |
 ## Hash Function
 |  |
 | ------- |
