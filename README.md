@@ -75,6 +75,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0386-lexicographical-numbers) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
@@ -296,4 +297,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
