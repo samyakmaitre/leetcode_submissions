@@ -301,4 +301,5 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
