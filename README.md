@@ -34,6 +34,7 @@
 | [2155-find-missing-observations](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -121,6 +123,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -302,4 +306,5 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
