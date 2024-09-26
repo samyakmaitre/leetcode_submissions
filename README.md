@@ -20,6 +20,7 @@
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0697-degree-of-an-array) |
+| [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
@@ -95,6 +96,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0441-arranging-coins) |
+| [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
@@ -315,4 +317,16 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
