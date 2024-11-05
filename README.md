@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0264-ugly-number-ii) |
