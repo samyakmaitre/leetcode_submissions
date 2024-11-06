@@ -40,6 +40,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -178,6 +179,7 @@
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
+| [3291-find-if-array-can-be-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Game Theory
 |  |
 | ------- |
