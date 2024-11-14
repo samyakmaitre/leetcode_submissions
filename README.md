@@ -38,6 +38,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -113,6 +114,7 @@
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2716-prime-subtraction-operation) |
 ## Binary Tree
