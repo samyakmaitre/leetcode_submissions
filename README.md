@@ -35,6 +35,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -83,6 +84,7 @@
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
+| [1972-rotating-the-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
@@ -200,6 +202,7 @@
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
