@@ -23,6 +23,7 @@
 | [0697-degree-of-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0697-degree-of-an-array) |
 | [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0932-monotonic-array) |
@@ -85,6 +86,7 @@
 | [0063-unique-paths-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
+| [0787-sliding-puzzle](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2089-maximum-matrix-sum) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0787-sliding-puzzle](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 ## Sliding Window
