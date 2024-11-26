@@ -28,6 +28,7 @@
 | [0906-walking-robot-simulation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -71,6 +72,7 @@
 | [0906-walking-robot-simulation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -87,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0079-word-search) |
 | [0787-sliding-puzzle](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0787-sliding-puzzle) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2089-maximum-matrix-sum) |
