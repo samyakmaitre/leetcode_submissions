@@ -32,6 +32,7 @@
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -77,6 +78,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -135,6 +137,7 @@
 | [0731-my-calendar-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -217,6 +220,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1972-rotating-the-box) |
@@ -231,6 +235,7 @@
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3291-find-if-array-can-be-sorted) |
