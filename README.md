@@ -48,6 +48,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
@@ -100,6 +101,7 @@
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -337,6 +339,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Graph
