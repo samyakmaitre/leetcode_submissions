@@ -120,6 +120,7 @@
 | [0975-range-sum-of-bst](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0975-range-sum-of-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
