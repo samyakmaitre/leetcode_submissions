@@ -21,6 +21,7 @@
 | [0494-target-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0561-array-partition) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0697-degree-of-an-array) |
 | [0729-my-calendar-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0731-my-calendar-ii) |
@@ -331,6 +332,7 @@
 | [0494-target-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
