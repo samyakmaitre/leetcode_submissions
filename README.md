@@ -30,6 +30,7 @@
 | [0906-walking-robot-simulation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0906-walking-robot-simulation) |
 | [0932-monotonic-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0941-sort-array-by-parity) |
+| [1025-minimum-cost-for-tickets](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
@@ -335,6 +336,7 @@
 | [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
