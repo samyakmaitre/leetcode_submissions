@@ -92,6 +92,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -202,6 +203,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -248,6 +250,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
@@ -364,6 +367,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
