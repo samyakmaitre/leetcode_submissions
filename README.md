@@ -36,6 +36,7 @@
 | [1325-path-with-maximum-probability](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1755-defuse-the-bomb) |
@@ -200,6 +201,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -467,6 +469,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0459-repeated-substring-pattern) |
+| [1524-string-matching-in-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
