@@ -45,6 +45,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -391,6 +392,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1240-stone-game-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2562-count-ways-to-build-good-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
