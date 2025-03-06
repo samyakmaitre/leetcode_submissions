@@ -84,6 +84,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -122,6 +123,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -143,6 +145,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -354,6 +357,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
