@@ -1,29 +1,55 @@
-class Solution {
-    public int[] closestPrimes(int left, int right) {
-        int num1 = -1, num2 = -1;
-        int[] result = {-1, -1};
+class Solution{
+    public int[] closestPrimes(int left, int right){
+        int[] sieveArray = sieve(right); // all prime numbers upto right using sieve
+        List<Integer> primeNumbers = new ArrayList<>(); //all prime from left to right
 
-        for (int i = left; i <= right; i++) {
-            if (checkPrime(i)) {
-                num1 = num2;
-                num2 = i;
-                
-                if (num1 != -1) { // Ensure we have two primes before comparison
-                    if (result[0] == -1 || num2 - num1 < result[1] - result[0]) {
-                        result[0] = num1;
-                        result[1] = num2;
-                    }
+        for(int num=left; num<=right; num++){
+            if(sieveArray[num] == 1){
+                primeNumbers.add(num);
+            }
+        }
+
+        if(primeNumbers.size()< 2) return new int[] {-1,-1};
+
+        int minDifference = Integer.MAX_VALUE;
+        int[] closestPair = new int[2];
+        Arrays.fill(closestPair, -1);
+
+        for (int index = 1; index < primeNumbers.size(); index++) {
+            int difference =
+                primeNumbers.get(index) - primeNumbers.get(index - 1);
+            if (difference < minDifference) {
+                minDifference = difference;
+                closestPair[0] = primeNumbers.get(index - 1);
+                closestPair[1] = primeNumbers.get(index);
+            }
+        }
+
+        return closestPair;
+    }
+    private int[] sieve(int upperLimit) {
+        // Initiate an int array to mark prime numbers (1 = prime, else it's not)
+        int[] sieve = new int[upperLimit + 1];
+        // Assuming all numbers as prime initially
+        Arrays.fill(sieve, 1);
+
+        // 0 and 1 are not prime
+        sieve[0] = 0;
+        sieve[1] = 0;
+
+        for (int number = 2; number * number <= upperLimit; number++) {
+            if (sieve[number] == 1) {
+                // Mark all multiples of 'number' as non-prime
+                for (
+                    int multiple = number * number;
+                    multiple <= upperLimit;
+                    multiple += number
+                ) {
+                    sieve[multiple] = 0;
                 }
             }
         }
-        return result;
+        return sieve;
     }
 
-    public static boolean checkPrime(int n) {
-        if (n <= 1) return false;  // Fixed to include all values <=1
-        for (int i = 2; i * i <= n; i++) {  // More efficient loop
-            if (n % i == 0) return false;
-        }
-        return true;
-    }
 }
