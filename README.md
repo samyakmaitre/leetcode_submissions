@@ -354,6 +354,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2155-find-missing-observations) |
+| [2610-closest-prime-numbers-in-range](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -506,6 +507,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
