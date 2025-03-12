@@ -74,6 +74,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -193,6 +194,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2716-prime-subtraction-operation) |
@@ -381,6 +383,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
