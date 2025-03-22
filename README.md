@@ -181,6 +181,7 @@
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
@@ -276,6 +277,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sliding Window
 |  |
@@ -480,6 +482,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/samyakmaitre/leetcode_submissions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -511,6 +514,7 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2035-count-sub-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/samyakmaitre/leetcode_submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
