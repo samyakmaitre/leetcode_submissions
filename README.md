@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0494-target-sum) |
@@ -417,6 +418,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/samyakmaitre/leetcode_submissions/tree/master/0664-strange-printer) |
